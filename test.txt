@@ -1,6 +1,6 @@
 Hello
 this is a test
-if(keer)
+if(kunjj)
   fail
 else
   pass
